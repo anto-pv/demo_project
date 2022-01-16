@@ -8,6 +8,7 @@ function App() {
       <Header/>
       <div className="body">
         <img src={logo} alt="React-App-Base"/>
+        Hi buduyjjj
       </div>
     </div>
   );
